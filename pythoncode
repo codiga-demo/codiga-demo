@@ -1,0 +1,4 @@
+import logging
+
+
+logging.info("starting program {0}".format("demo"))
